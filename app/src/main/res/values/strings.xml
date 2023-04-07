@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">European countries</string>
+    <string name="kyiv">https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Outline_of_Ukraine.svg/1200px-Outline_of_Ukraine.svg.png</string>
+    <string name="berlin">https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_map_of_Germany.svg/1200px-Flag_map_of_Germany.svg.png</string>
+    <string name="warsaw">https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Poland_map_flag.svg/640px-Poland_map_flag.svg.png</string>
+
+    <string name="UkraineInfo">Ukraine is a country in Eastern Europe. It is the second-largest European country.Ukraine covers approximately 600,000 square kilometres.Prior to the ongoing Russian invasion, it was the eighth-most populous country in Europe, with a population of around 41 million people.</string>
+    <string name="GermanyInfo">Germany is a country in Central Europe. It is the second-most populous country in Europe, and the most populous member state of the European Union. Germany is situated between the Baltic and North seas to the north, and the Alps to the south; it covers an area of 357,022 square kilometres (137,847 sq mi), with a population of over 84 million within its 16 constituent states. </string>
+    <string name="PolandInfo">Poland is a country in Central Europe. It is divided into 16 administrative provinces called voivodeships, covering an area of 312,696 km2. Poland has a population of around 38 million and is the fifth-most populous member state of the European Union.</string>
+</resources>
